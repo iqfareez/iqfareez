@@ -5,7 +5,7 @@
 Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby since covid-19 pandemic started.
 
 - 🌱 I’m currently learning Android app and game development
-- 📫 How to reach me: [email](foxtrotiqmal3@gmail.com)
+- 📫 How to reach me: [Email](mailto:foxtrotiqmal3@gmail.com)
 
 <!--
 **fareezMaple/fareezMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
