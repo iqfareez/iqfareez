@@ -6,6 +6,9 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
 
 - 🌱 I’m currently learning Android app and game development
 - 📫 How to reach me: [Email](mailto:foxtrotiqmal3@gmail.com)
+- 📲 Follow me on:
+	- [Twitter](https://twitter.com/iqfareez2)
+	- [Instagram](https://www.instagram.com/iqfareez/)
 
 <!--
 **fareezMaple/fareezMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
