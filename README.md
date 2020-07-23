@@ -9,6 +9,13 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
 - 📲 Follow me on:
 	- [Twitter](https://twitter.com/iqfareez2)
 	- [Instagram](https://www.instagram.com/iqfareez/)
+	
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fareezmaple&hide=["prs"]&show_icons=true)
+
+
+
+
 
 <!--
 **fareezMaple/fareezMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
