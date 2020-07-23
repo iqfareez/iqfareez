@@ -11,12 +11,13 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
 	- [Instagram](https://www.instagram.com/iqfareez/)
 	
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fareezmaple&hide=["prs"]&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/">
+<a href="https://github.com/fareezmaple/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmaple" />
 </a>
+<a href="https://github.com/fareezmaple/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fareezmaple&show_icons=true" />
+</a>
+
 
 
 <!--
@@ -33,6 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fareezmaple&hide=["prs"]&show_icons=true)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmaple)
 -->
