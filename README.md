@@ -14,7 +14,7 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fareezmaple&hide=["prs"]&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmaple" />
 </a>
 
