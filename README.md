@@ -6,12 +6,13 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
 
 - 🌱 I’m currently learning Android app and game development
 - 📫 How to reach me: [Email](mailto:foxtrotiqmal3@gmail.com)
-- 📲 Follow me on:
+
+### Follow me on:
 	- [Twitter](https://twitter.com/iqfareez2)
 	- [Instagram](https://www.instagram.com/iqfareez/)
 	
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+### Published apps
+- //TODO
 
 <a href="https://github.com/fareezmaple/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmaple" />
