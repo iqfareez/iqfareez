@@ -8,8 +8,8 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
 - 📫 How to reach me: [Email](mailto:foxtrotiqmal3@gmail.com)
 
 ### Follow me on:
-	- [Twitter](https://twitter.com/iqfareez2)
-	- [Instagram](https://www.instagram.com/iqfareez/)
+  - [Twitter](https://twitter.com/iqfareez2)
+  - [Instagram](https://www.instagram.com/iqfareez/)
 	
 ### Published apps
 - //TODO
