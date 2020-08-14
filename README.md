@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-![GitHUb Developer page cover Editor Header VScode acah2 (1)](https://user-images.githubusercontent.com/60868965/87214496-b2f60b00-c35f-11ea-8c3d-10a695431d9b.png)
+![GitHUb Developer page cover Editor Header VScode acah2](https://user-images.githubusercontent.com/60868965/90210259-102e2200-de20-11ea-912e-7e4ff2055b9b.png)
 
 Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby since covid-19 pandemic started.
 
@@ -10,9 +10,6 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
 ### Follow me on:
   - [Twitter](https://twitter.com/iqfareez2)
   - [Instagram](https://www.instagram.com/iqfareez/)
-	
-### Published apps
-- //TODO
 
 <a href="https://github.com/fareezmaple/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmaple" />
