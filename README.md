@@ -11,17 +11,15 @@ Hi, I'm Fareez --- **20, An engineering student**. Programming is my new hobby s
   - [Twitter](https://twitter.com/iqfareez2)
   - [Instagram](https://www.instagram.com/iqfareez/)
 
-<a href="https://github.com/fareezmaple/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmaple" />
-</a>
-<a href="https://github.com/fareezmaple/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fareezmaple&show_icons=true" />
-</a>
 
 
 
 <!--
 **fareezMaple/fareezMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://github.com/fareezmaple/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareezmaple&hide=ShaderLab,Objective-C" />
+</a>
 
 Here are some ideas to get you started:
 
