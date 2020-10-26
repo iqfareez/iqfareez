@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fareez, a full-time student, a hobbyist developer 👨‍💻 </div>  
+### <div align="center">I'm Fareez, a full-time engineering student, a hobbyist developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on Android apps  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Flutter and Dart  
   
 
-- "Practical before theory"  
+- "Practical before theory" -fareez, 2020
   
 
 <br/>  
