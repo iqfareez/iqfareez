@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://user-images.githubusercontent.com/60868965/104113934-9dc35e80-5339-11eb-8913-abc2a56aeadf.gif" align="center" style="width: 100%" />
+</div>    
 
 ### <div align="center">I'm Fareez, a full-time engineering student, a hobbyist developer 👨‍💻 </div>  
   
@@ -13,6 +12,8 @@
   
 
 - "Practical before theory" -fareez, 2020
+
+- 2021 resolution: Unknown
   
 
 <br/>  
@@ -55,6 +56,8 @@
   
 
 <br/>  
+
+
 
 
 ## Github Stats  
