@@ -9,9 +9,7 @@
   
 
 - 🌱 I’m currently learning Flutter and Dart  
-  
 
-- "Practical before theory" -fareez, 2020
 
 - 2021 resolution: Unknown
   
@@ -23,10 +21,11 @@
     <summary>Click to expand!</summary>
 
 Alright here we go:
-- My first app is [Malaysian WhatsApp Sticker packs](https://play.google.com/store/apps/details?id=com.sticker.WAMalaysianStickers). Urm why that app? Well, at that time I have 0 knowledge on Android (native) app development, but WhatsApp has their official source code [online](https://github.com/WhatsApp/stickers), so I just *yoink* the code, replaces all the asset, and boomm. Yea basically that my first baby step on development.
-- I also starting Unity game development after watching [Dani's video](https://www.youtube.com/watch?v=HPmD9I2b7L8). I feel like "Waa that's cool". And yea I found many tutorial online that keep boosting my motivation into development. I released quite a few apps with Unity (yea apps not games hehe). The sad part is now I'm stopped developing with Unity. Perhaps one day I'll come back who knows.
-- Ok so far I developed most of my apps in Flutter. So where do I know [Flutter](https://flutter.dev/)? TBH I can't remember correctly, perhaps I hear the Flutter word from dev grouops or smth. Now I'm in love with Flutter ya know hahaha. 
-- So what next?
+- My first app was [Malaysian WhatsApp Sticker packs](https://play.google.com/store/apps/details?id=com.sticker.WAMalaysianStickers).Urm, why that app? At that time, I have 0 knowledge of Android (native) app development. Still, WhatsApp has its official [source code](https://github.com/WhatsApp/stickers), so I yoink the code, replaces all assets, and boom. Yea, that my first baby step in development.
+- I am also starting Unity game development after watching [Dani's video](https://www.youtube.com/watch?v=HPmD9I2b7L8). I feel like, "Waa, that's cool." And yea, I found many tutorials online that keep boosting my motivation into development. I released quite a few apps with Unity (yea, apps, not games, hehe). The sad part is now I'm stopped developing with Unity. Perhaps one day I'll come back, who knows.
+- Ok, so far, I developed most of my apps in Flutter. So, where do I know [Flutter](https://flutter.dev/)? TBH I can't remember correctly. Perhaps I hear the Flutter word from dev groups or smth. Now I'm in love with Flutter because I think it was so cool that I can publish to mobile and web, from a single codebase).
+- I wouldn't say I liked web development that much; to be honest, it is somewhat dull and hard to learn for me. Nah, I'm unsure about it. It has a wide-range to tech stack used right now (Tailwinds, bootstrap, vue bla bla). It is complicated (like girls also).
+- So what next? 
   
   </details>
 
