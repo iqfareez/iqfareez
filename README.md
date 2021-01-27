@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60868965/104115627-2519cd80-534c-11eb-90d5-f91fb90bc912.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/60868965/106007036-d6608780-60f0-11eb-96fb-632420dae407.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Fareez, a full-time engineering student, a hobbyist developer 👨‍💻 </div>
