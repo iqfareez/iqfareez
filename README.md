@@ -1,4 +1,4 @@
-Best viewed in Github.com
+<div align="center">Best view on desktop browser</a></div>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60868965/106007036-d6608780-60f0-11eb-96fb-632420dae407.gif" align="center" style="width: 100%" />
 </div>
@@ -78,4 +78,4 @@ Alright here we go:
 ---
 
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
-<div align="center">Best view on desktop browser</a></div>
+
