@@ -26,8 +26,8 @@ Alright here we go:
 - My first app was [Malaysian WhatsApp Sticker packs](https://play.google.com/store/apps/details?id=com.sticker.WAMalaysianStickers).Urm, why that app? At that time, I have 0 knowledge of Android (native) app development. Still, WhatsApp has its official [source code](https://github.com/WhatsApp/stickers), so I yoink the code, replaces all assets, and boom. Yea, that my first baby step in development.
 - I am also starting Unity game development after watching [Dani's video](https://www.youtube.com/watch?v=HPmD9I2b7L8). I feel like, "Waa, that's cool." And yea, I found many tutorials online that keep boosting my motivation into development. I released quite a few apps with Unity (yea, apps, not games, hehe). The sad part is now I'm stopped developing with Unity. Perhaps one day I'll come back, who knows.
 - Ok far, I developed most of my apps in Flutter. So, why I choose [Flutter](https://flutter.dev/)? Tbh idk. Perhaps Flutter community in growing fast. Peoples start using it so why don't I try it, right? Things Flutter can do over native is ability to publish app for multiple platforms, eg: Android, Web and Desktop. I consider Flutter and Dart is quite easy to learmn and it is definitely suitable for beginner.
-- I wouldn't say I liked web development that much; to be honest, it is somewhat dull and hard to learn for me. Nah, I'm unsure about it. It has a wide-range to tech stack used right now (Tailwinds, bootstrap, vue bla bla). RRight now I'm following this [tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) on React.
-- So what next?
+- I wouldn't say I liked web development that much; to be honest, it is somewhat dull and hard to learn for me. Nah, I'm unsure about it. It has a wide-range to tech stack used right now (Tailwinds, bootstrap, vue bla bla). Right now I'm following this [tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) on React.
+- So what next? Currently busy in doing assignments/homeworks 😅
 
   </details>
 
