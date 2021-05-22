@@ -1,16 +1,30 @@
 <div align="center">Best view on desktop browser</a></div>
-<div align="center">
-
-</div>
 
 ### <div align="center">I'm Fareez, a full-time engineering student, a hobbyist developer 👨‍💻 </div>
+
 <div align="center">Love to learn and develop</div>
-
-
 
 <br/>
 
-## Something more about me?
+## What I've build
+
+| Highlight                                                                     |
+| ----------------------------------------------------------------------------- |
+| [Malaysia Prayer Time](https://github.com/iqfareez/app_waktu_solat_malaysia/) |
+| [Flutree](https://github.com/iqfareez/linktree-clone-flutter)                 |
+
+| Others                                                                 |      |
+| ---------------------------------------------------------------------- | ---- |
+| [Who in space?](https://github.com/iqfareez/people_in_space)           | todo |
+| [Rakaat Counter](https://github.com/iqfareez/rakaat_counter)           | todo |
+| [Noteskeeping app](https://github.com/iqfareez/flutnotes)              | todo |
+| [Link shortener app](https://github.com/iqfareez/shortqly)             | todo |
+| [Smarthome UI](https://github.com/iqfareez/smarthome_ui_flutter)       | todo |
+| [BMI Calculator](https://github.com/iqfareez/bmi_calculator-Flutter)   | todo |
+| [Light Intensity Meter](https://github.com/iqfareez/light_lux_flutter) | todo |
+| [Sound Meter](https://github.com/iqfareez/Sound-Meter-Flutter)         | todo |
+
+## Some background of me?
 
 <details>
     <summary>Click to expand!</summary>
@@ -28,26 +42,6 @@ Alright here we go:
 
   </details>
 
-## My Skill Set
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-</div>
-* bukan semua pro pun hehhe
-
-<br/>
-
 ## Connect with me
 
 <div align="center">
@@ -57,14 +51,13 @@ Alright here we go:
 <a href="https://twitter.com/iqfareez" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/muhammad-iqfareez" target="_blank">
+<a href="https://linkedin.com/in/iqfareez" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/iqfareez" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -76,4 +69,3 @@ Alright here we go:
 ---
 
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
-
