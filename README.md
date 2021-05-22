@@ -1,15 +1,12 @@
 <div align="center">Best view on desktop browser</a></div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60868965/106007036-d6608780-60f0-11eb-96fb-632420dae407.gif" align="center" style="width: 100%" />
+
 </div>
 
 ### <div align="center">I'm Fareez, a full-time engineering student, a hobbyist developer 👨‍💻 </div>
+<div align="center">Love to learn and develop</div>
 
-- 🔭 I’m currently working on Android apps
 
-- 🌱 I’m currently learning Flutter and Dart
-
-- 2021 resolution: Unknown
 
 <br/>
 
