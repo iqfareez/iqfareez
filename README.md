@@ -29,7 +29,7 @@
 | [Torch](https://github.com/iqfareez/flut_torch)                                      | UI Template | [WhatsApp clone](https://github.com/iqfareez/wa_clone_ui_flutter)                     | UI Template |
 | [Is 2021 end?](https://github.com/iqfareez/Is-2020-end)                              | Mobile      | [Tasbih digital (Android)](https://github.com/iqfareez/Tasbih-Digital-Android)        | Mobile      |
 | [Tasbih digital (Unity)](https://github.com/iqfareez/Tasbih-Digital-Unity)           | Mobile      | [Vibrator test](https://github.com/iqfareez/Vibrator-PhoneTest-Unity)                 | Mobile      |
-| [Motivation Kita Bersama](https://github.com/iqfareez/motivation-quote-bot-Telegram) | Bot         | [C++ Projects](https://github.com/iqfareez/cpp_Project)                               | Mobile      |
+| [Motivation Kita Bersama](https://github.com/iqfareez/motivation-quote-bot-Telegram) | Bot         | [C++ Projects](https://github.com/iqfareez/cpp_Project)                               | -      |
 | [Roll The Dice](https://github.com/iqfareez/Roll-Dice-Unity)                         | Mobile      | [WhatsApp Sticker Pack](https://github.com/iqfareez/Android-my-WhatsApp-Sticker) | Mobile      |
 
 ## Some background of me?
