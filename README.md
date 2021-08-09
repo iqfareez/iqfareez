@@ -1,4 +1,4 @@
-### <div align="center">I'm Fareez, a full-time engineering student, a hobbyist developer 👨‍💻 </div>
+### <div align="center">Hi :wave:. I'm Fareez, a full-time engineering student, a hobbyist developer 👨‍💻 </div>
 
 <div align="center">Love to learn and develop</div>
 
@@ -15,22 +15,23 @@
 
 ### Others
 
-| Name                                                                                 | Type        | Name                                                                                  | Type        |
-| ------------------------------------------------------------------------------------ | ----------- | ------------------------------------------------------------------------------------- | ----------- |
-| [Who in space?](https://github.com/iqfareez/people_in_space)                         | WIP         | [Shortqly](https://github.com/iqfareez/shortqly)                                      | WIP         |
-| [Rakaat Counter](https://github.com/iqfareez/rakaat_counter)                         | Mobile      | [Quotes app](https://github.com/iqfareez/flutter_quotes)                              | WIP         |
-| [Noteskeeping app](https://github.com/iqfareez/flutnotes)                            | Mobile/Web  | [Free Palestine](https://github.com/iqfareez/free_palestine)                          | Web         |
-| [Link shortener app](https://github.com/iqfareez/shortqly)                           | Mobile/Web  | [Report Abuse Form](https://github.com/iqfareez/google_report_abuse)                  | UI Template  |
-| [Smarthome UI](https://github.com/iqfareez/smarthome_ui_flutter)                     | Mobile/Web  | [Pubspec to Md](https://github.com/iqfareez/pubspec_to_md)                            | Web         |
-| [BMI Calculator](https://github.com/iqfareez/bmi_calculator-Flutter)                 | Mobile/Web  | [Tarbawi Quiz](https://github.com/iqfareez/Tarbawi-2.0-quiz-Unity)                    | Mobile      |
-| [Light Intensity Meter](https://github.com/iqfareez/light_lux_flutter)               | Mobile      | [Feedback page](https://github.com/iqfareez/flutter_feedback_ui_by_neecoder_x)        | WIP         |
-| [Noise Meter](https://github.com/iqfareez/noise_meter_flutter)                       | Mobile      | [IIUM Schedule App](https://github.com/iqfareez/flutter_iium_schedule)                | WIP         |
-| [MasakJer (GSC21)](https://github.com/iqfareez/flutter_sc_masakjer)                  | Mobile      | [Qibla Compass](https://github.com/iqfareez/qiblah_flutter)                           | Mobile      |
-| [Torch](https://github.com/iqfareez/flut_torch)                                      | UI Template | [WhatsApp clone](https://github.com/iqfareez/wa_clone_ui_flutter)                     | UI Template |
-| [Is 2021 end?](https://github.com/iqfareez/Is-2020-end)                              | Mobile      | [Tasbih digital (Android)](https://github.com/iqfareez/Tasbih-Digital-Android)        | Mobile      |
-| [Tasbih digital (Unity)](https://github.com/iqfareez/Tasbih-Digital-Unity)           | Mobile      | [Vibrator test](https://github.com/iqfareez/Vibrator-PhoneTest-Unity)                 | Mobile      |
-| [Motivation Kita Bersama](https://github.com/iqfareez/motivation-quote-bot-Telegram) | Bot         | [C++ Projects](https://github.com/iqfareez/cpp_Project)                               | -      |
-| [Roll The Dice](https://github.com/iqfareez/Roll-Dice-Unity)                         | Mobile      | [WhatsApp Sticker Pack](https://github.com/iqfareez/Android-my-WhatsApp-Sticker) | Mobile      |
+| Name                                                                                     | Type        | Name                                                                             | Type        |
+| ---------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------- | ----------- |
+| [Who in space?](https://github.com/iqfareez/people_in_space)                             | Mobile      | [Shortqly](https://github.com/iqfareez/shortqly)                                 | WIP         |
+| [Rakaat Counter](https://github.com/iqfareez/rakaat_counter)                             | WIP         | [Quotes app](https://github.com/iqfareez/flutter_quotes)                         | WIP         |
+| [Noteskeeping app](https://github.com/iqfareez/flutnotes)                                | Mobile/Web  | [Free Palestine](https://github.com/iqfareez/free_palestine)                     | Web         |
+| [Link shortener app](https://github.com/iqfareez/shortqly)                               | Mobile/Web  | [Report Abuse Form](https://github.com/iqfareez/google_report_abuse)             | UI Template |
+| [Smarthome UI](https://github.com/iqfareez/smarthome_ui_flutter)                         | Mobile/Web  | [Pubspec to Md](https://github.com/iqfareez/pubspec_to_md)                       | Web         |
+| [BMI Calculator](https://github.com/iqfareez/bmi_calculator-Flutter)                     | Mobile/Web  | [Tarbawi Quiz](https://github.com/iqfareez/Tarbawi-2.0-quiz-Unity)               | Mobile      |
+| [Light Intensity Meter](https://github.com/iqfareez/light_lux_flutter)                   | Mobile      | [Feedback page](https://github.com/iqfareez/flutter_feedback_ui_by_neecoder_x)   | WIP         |
+| [Noise Meter](https://github.com/iqfareez/noise_meter_flutter)                           | Mobile      | [IIUM Schedule App](https://github.com/iqfareez/flutter_iium_schedule)           | WIP         |
+| [MasakJer (GSC21)](https://github.com/iqfareez/flutter_sc_masakjer)                      | Mobile      | [Qibla Compass](https://github.com/iqfareez/qiblah_flutter)                      | Mobile      |
+| [Torch](https://github.com/iqfareez/flut_torch)                                          | UI Template | [WhatsApp clone](https://github.com/iqfareez/wa_clone_ui_flutter)                | UI Template |
+| [Is 2021 end?](https://github.com/iqfareez/Is-2020-end)                                  | Mobile      | [Tasbih digital (Android)](https://github.com/iqfareez/Tasbih-Digital-Android)   | Mobile      |
+| [Tasbih digital (Unity)](https://github.com/iqfareez/Tasbih-Digital-Unity)               | Mobile      | [Vibrator test](https://github.com/iqfareez/Vibrator-PhoneTest-Unity)            | Mobile      |
+| [Motivation Kita Bersama](https://github.com/iqfareez/motivation-quote-bot-Telegram)     | Bot         | [C++ Projects](https://github.com/iqfareez/cpp_Project)                          | -           |
+| [Roll The Dice](https://github.com/iqfareez/Roll-Dice-Unity)                             | Mobile      | [WhatsApp Sticker Pack](https://github.com/iqfareez/Android-my-WhatsApp-Sticker) | Mobile      |
+| [HuTem](https://github.com/iqfareez/PlatformIO-Projects/tree/main/DH11%20ESP%20Firebase) | Mobile      |                                                                                  |             |
 
 ## Some background of me?
 
