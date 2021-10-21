@@ -8,30 +8,30 @@
 
 ### Flagship
 
-| Name                                                | Type        |
-| --------------------------------------------------- | ----------- |
-| [Malaysia Prayer Time](./app_waktu_solat_malaysia/) | Android/Web |
-| [~~Flutree~~](./linktree-clone-flutter)             | Android/Web |
+| Name                                                 | Type        |
+| ---------------------------------------------------- | ----------- |
+| [Malaysia Prayer Time](../app_waktu_solat_malaysia/) | Android/Web |
+| [~~Flutree~~](../linktree-clone-flutter)             | Android/Web |
 
 ### Others
 
-| Name                                                           | Type        | Name                                                   | Type        |
-| -------------------------------------------------------------- | ----------- | ------------------------------------------------------ | ----------- |
-| [Who in space?](./people_in_space)                             | Android     | [Shortqly](./shortqly)                                 | WIP         |
-| [Rakaat Counter](./rakaat_counter)                             | WIP         | [Quotes app](./flutter_quotes)                         | WIP         |
-| [Noteskeeping app](./flutnotes)                                | Android/Web | [Free Palestine](./free_palestine)                     | Web         |
-| [Link shortener app](./shortqly)                               | Android/Web | [Report Abuse Form](./google_report_abuse)             | UI Template |
-| [Smarthome UI](./smarthome_ui_flutter)                         | UI Template | [Pubspec to Md](./pubspec_to_md)                       | Web         |
-| [BMI Calculator](./bmi_calculator-Flutter)                     | Android/Web | [Tarbawi Quiz](./Tarbawi-2.0-quiz-Unity)               | Android     |
-| [Light Intensity Meter](./light_lux_flutter)                   | Android     | [Feedback page](./flutter_feedback_ui_by_neecoder_x)   | UI Template |
-| [Noise Meter](./noise_meter_flutter)                           | Android     | [IIUM Schedule App](./flutter_iium_schedule)           | WIP         |
-| [MasakJer (GSC21)](./flutter_sc_masakjer)                      | Android     | [Qibla Compass](./qiblah_flutter)                      | Android     |
-| [Torch](./flut_torch)                                          | WIP         | [WhatsApp clone](./wa_clone_ui_flutter)                | UI Template |
-| [Is 2021 end?](./Is-2020-end)                                  | Android     | [Tasbih digital (Android)](./Tasbih-Digital-Android)   | Android     |
-| [Tasbih digital (Unity)](./Tasbih-Digital-Unity)               | Android     | [Vibrator test](./Vibrator-PhoneTest-Unity)            | Android     |
-| [Motivation Kita Bersama](./motivation-quote-bot-Telegram)     | Bot         | [C++ Projects](./cpp_Project)                          | -           |
-| [Roll The Dice](./Roll-Dice-Unity)                             | Android     | [WhatsApp Sticker Pack](./Android-my-WhatsApp-Sticker) | Android     |
-| [HuTem](./PlatformIO-Projects/tree/main/DH11%20ESP%20Firebase) | ESP32 (IoT) |                                                        |             |
+| Name                                                            | Type        | Name                                                    | Type        |
+| --------------------------------------------------------------- | ----------- | ------------------------------------------------------- | ----------- |
+| [Who in space?](../people_in_space)                             | Android     | [Shortqly](../shortqly)                                 | WIP         |
+| [Rakaat Counter](../rakaat_counter)                             | WIP         | [Quotes app](../flutter_quotes)                         | WIP         |
+| [Noteskeeping app](../flutnotes)                                | Android/Web | [Free Palestine](../free_palestine)                     | Web         |
+| [Link shortener app](../shortqly)                               | Android/Web | [Report Abuse Form](../google_report_abuse)             | UI Template |
+| [Smarthome UI](../smarthome_ui_flutter)                         | UI Template | [Pubspec to Md](../pubspec_to_md)                       | Web         |
+| [BMI Calculator](../bmi_calculator-Flutter)                     | Android/Web | [Tarbawi Quiz](../Tarbawi-2.0-quiz-Unity)               | Android     |
+| [Light Intensity Meter](../light_lux_flutter)                   | Android     | [Feedback page](../flutter_feedback_ui_by_neecoder_x)   | UI Template |
+| [Noise Meter](../noise_meter_flutter)                           | Android     | [IIUM Schedule App](../flutter_iium_schedule)           | WIP         |
+| [MasakJer (GSC21)](../flutter_sc_masakjer)                      | Android     | [Qibla Compass](../qiblah_flutter)                      | Android     |
+| [Torch](../flut_torch)                                          | WIP         | [WhatsApp clone](../wa_clone_ui_flutter)                | UI Template |
+| [Is 2021 end?](../Is-2020-end)                                  | Android     | [Tasbih digital (Android)](../Tasbih-Digital-Android)   | Android     |
+| [Tasbih digital (Unity)](../Tasbih-Digital-Unity)               | Android     | [Vibrator test](../Vibrator-PhoneTest-Unity)            | Android     |
+| [Motivation Kita Bersama](../motivation-quote-bot-Telegram)     | Bot         | [C++ Projects](../cpp_Project)                          | -           |
+| [Roll The Dice](../Roll-Dice-Unity)                             | Android     | [WhatsApp Sticker Pack](../Android-my-WhatsApp-Sticker) | Android     |
+| [HuTem](../PlatformIO-Projects/tree/main/DH11%20ESP%20Firebase) | ESP32 (IoT) |                                                         |             |
 
 _\* WIP - Work In Progress_
 
@@ -56,7 +56,7 @@ Alright here we go:
 ## Connect with me
 
 <div align="center">
-<a href="." target="_blank">
+<a href=".." target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iqfareez" target="_blank">
