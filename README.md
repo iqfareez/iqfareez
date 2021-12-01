@@ -24,7 +24,7 @@
 | [Smarthome UI](../../../smarthome_ui_flutter)           | UI Template | [Pubspec to Md](../../../pubspec_to_md)                               | Web         |
 | [BMI Calculator](../../../bmi_calculator-Flutter)       | Android/Web | [Tarbawi Quiz](../../../Tarbawi-2.0-quiz-Unity)                       | Android     |
 | [Light Intensity Meter](../../../light_lux_flutter)     | Android     | [Feedback page](../../../flutter_feedback_ui_by_neecoder_x)           | UI Template |
-| [Noise Meter](../../../noise_meter_flutter)             | Android     | [IIUM Schedule App](../../../flutter_iium_schedule)                   | WIP         |
+| [Noise Meter](../../../noise_meter_flutter)             | Android     | [IIUM Schedule App](../../../iium_schedule)                           | WIP         |
 | [MasakJer (GSC21)](../../../flutter_sc_masakjer)        | Android     | [Qibla Compass](../../../qiblah_flutter)                              | Android     |
 | [Torch](../../../flut_torch)                            | WIP         | [WhatsApp clone](../../../wa_clone_ui_flutter)                        | UI Template |
 | [Is 2021 end?](../../../Is-2020-end)                    | Android     | [Tasbih digital (Android)](../../../Tasbih-Digital-Android)           | Android     |
@@ -32,7 +32,7 @@
 | [C++ Projects](../../../cpp_Project)                    | -           | [Motivation Kita Bersama](../../../motivation-quote-bot-Telegram)     | Bot         |
 | [Roll The Dice](../../../Roll-Dice-Unity)               | Android     | [WhatsApp Sticker Pack](../../../Android-my-WhatsApp-Sticker)         | Android     |
 | [MPT Backup API](../../../mpt-backup-api)               | API         | [HuTem](../../../PlatformIO-Projects/tree/main/DH11%20ESP%20Firebase) | ESP32 (IoT) |
-| [People In Space API](../../../astros-api)              | API         |                                                                       |             |
+| [People In Space API](../../../astros-api)              | API         | [ToDo App](../../../todo_app)                                         | WIP         |
 
 And probably more not documented
 
