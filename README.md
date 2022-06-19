@@ -45,20 +45,23 @@ _\* WIP - Work In Progress_
 
 Alright here we go:
 
-- First programming language that I learn is javascript when I was in primary-secondary school [iirc](https://www.dictionary.com/browse/iirc#:~:text=IIRC%20is%20an%20internet%20abbreviation,not%20be%20100%25%20sure%20of.). That time I just get access to Internet so I stumble scross [Khan Academy](https://www.khanacademy.org/) where I started learning math and programming. I didn't manage to finish the whole course because it's boring hahahah
+- First programming language I learned was javascript when I was in primary-secondary school [iirc](https://www.dictionary.com/browse/iirc#:~:text=IIRC%20is%20an%20internet%20abbreviation,not%20be%20100%25%20sure%20of.). At that time, I had just gotten access to the Internet, so I stumbled across [Khan](https://www.khanacademy.org/) Academy](https://www.khanacademy.org/), where I started learning math and programming. I didn't manage to finish the whole course because it's boring hahahah.
 - In form 4, when I in MRSM, we have subject called Computer Science iirc. We learn on Visual Basic .NET. Subjek paling favourite tapi kelas seminggu sekali je, pastu kdg2 cikgu tk masuk arghdgh. Lps tu cikgu ganti amik alih. Lagi pishangg hahaa.
 - In CFS / Asasi IIUM, we learn C. Then, in first year degree we learn C++. Dua2 ni menarik and markah alhamdulillah gempak hhaha
-- My first app was [Malaysian WhatsApp Sticker packs](https://play.google.com/store/apps/details?id=com.sticker.WAMalaysianStickers).Urm, why that app? At that time, I have 0 knowledge of Android (native) app development. Still, WhatsApp has its official [source code](https://github.com/WhatsApp/stickers), so I yoink the code, replaces all assets, and boom. Yea, that my first baby step in development.
-- I am also starting Unity game development after watching [Dani's video](https://www.youtube.com/watch?v=HPmD9I2b7L8). I feel like, "Waa, that's cool." And yea, I found many tutorials online that keep boosting my motivation into development. I released quite a few apps with Unity (yea, apps, not games, hehe). The sad part is now I'm stopped developing with Unity. Perhaps one day I'll come back, who knows.
-- Ok far, I developed most of my apps in Flutter. So, why I choose [Flutter](https://flutter.dev/)? Tbh idk. Perhaps Flutter community in growing fast. Peoples start using it so why don't I try it, right? Things Flutter can do over native is ability to publish app for multiple platforms, eg: Android, Web and Desktop. I consider Flutter and Dart is quite easy to learmn and it is definitely suitable for beginner.
-- I wouldn't say I liked web development that much; to be honest, it is somewhat dull and hard to learn for me. Nah, I'm unsure about it. It has a wide-range to tech stack used right now (Tailwinds, bootstrap, vue bla bla). Right now I'm following this [tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) on React.
-- So what next? Currently busy in doing assignments/homeworks 😅
+- My first app was [Malaysian WhatsApp Sticker packs](https://play.google.com/store/apps/details?id=com.sticker.WAMalaysianStickers).Urm, why that app? At that time, I have 0 knowledge of Android (native) app development. Still, WhatsApp has its official [source code](https://github.com/WhatsApp/stickers), so I yoink the code and replace all assets. Yea, that's my first baby step in development.
+- I am also starting Unity game development after watching [Dani's video](https://www.youtube.com/watch?v=HPmD9I2b7L8). I feel like, "Waa, that's cool." And yea, I found many tutorials online that keep boosting my motivation for development. I released quite a few apps with Unity (yea, apps, not games, hehe). The sad part is now I'm stopped developing with Unity. Perhaps one day I'll come back, who knows.
+- Ok far, I developed most of my apps in Flutter. So, why did I choose [Flutter](https://flutter.dev/)](https://flutter.dev/)? Tbh idk. Perhaps the Flutter community is growing fast. Peoples start using it so why don't I try it right? Things Flutter can do over native is the ability to publish apps for multiple platforms, e.g.: Android, Web, and Desktop. I consider Flutter and Dart are quite easy to learn, and it is suitable for beginner.
+- I wouldn't say I liked web development that much; to be honest, it is somewhat dull and difficult to learn for me. Nah, I'm unsure about it. It has a wide-range to tech stack used right now (Tailwinds, bootstrap, vue bla bla).
+- Now, I love tinkering with microcontrollers and electronics. My favorite so far is ESP32. Others including Arduino, Rasi Pico, micro:bit etc. 😅
 
   </details>
 
 ## Connect with me
 
 <div align="center">
+<a href="https://iqfareez.com" target="_blank">
+<img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
 <a href="../../.." target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -69,7 +72,7 @@ Alright here we go:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/iqfareez" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23fb3958.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
 
