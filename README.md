@@ -19,7 +19,7 @@
 | Name                                                    | Type        | Name                                                                  | Type            |
 | ------------------------------------------------------- | ----------- | --------------------------------------------------------------------- | --------------- |
 | [People in space?](../../../people_in_space)            | Android     | [People In Space API](../../../astros-api)                            | API             |
-| [Rakaat Counter](../../../rakaat_counter)               | WIP         | [admonitions](../../../admonitions)                                   | Flutter pacakge |
+| [Rakaat Counter](../../../rakaat_counter)               | WIP         | [admonitions](../../../admonitions)                                   | Flutter package |
 | [Notekeeping app](../../../flutnotes)                   | Android/Web | [Free Palestine](../../../free_palestine)                             | Web             |
 | [Speaking Dice](../../../speaking_dice)                 | Android/Web | [Report Abuse Form](../../../google_report_abuse)                     | UI Template     |
 | [Smarthome UI](../../../smarthome_ui_flutter)           | UI Template | [Pubspec to Md](../../../pubspec_to_md)                               | Web             |
@@ -50,7 +50,7 @@ Alright here we go:
 - In CFS / Asasi IIUM, we learn C. Then, in first year degree we learn C++. Dua2 ni menarik and markah alhamdulillah gempak hhaha
 - My first app was [Malaysian WhatsApp Sticker packs](https://play.google.com/store/apps/details?id=com.sticker.WAMalaysianStickers).Urm, why that app? At that time, I have 0 knowledge of Android (native) app development. Still, WhatsApp has its official [source code](https://github.com/WhatsApp/stickers), so I yoink the code and replace all assets. Yea, that's my first baby step in development.
 - I am also starting Unity game development after watching [Dani's video](https://www.youtube.com/watch?v=HPmD9I2b7L8). I feel like, "Waa, that's cool." And yea, I found many tutorials online that keep boosting my motivation for development. I released quite a few apps with Unity (yea, apps, not games, hehe). The sad part is now I stopped developing with Unity. Perhaps one day I'll come back, who knows?
-- I developed most of my apps in Flutter. So, why did I choose [Flutter](https://flutter.dev/)](https://flutter.dev/)? It's easy to learn and understand, and the language & syntax are easy to grasp. Things Flutter can do over native is the ability to publish apps for multiple platforms, e.g.: Android, Web, and Desktop. For beginners, I recommend Flutter.
+- I developed most of my apps in Flutter. So, why did I choose [Flutter](https://flutter.dev/)? It's easy to learn and understand, and the language & syntax are easy to grasp. Things Flutter can do over native is the ability to publish apps for multiple platforms, e.g.: Android, Web, and Desktop. For beginners, I recommend Flutter.
 - I wouldn't say I liked web development that much; to be honest, it is somewhat dull and difficult to learn for me. But, for things that require me to do web development stuff, I didn't hesitate to learn and explore more.
 - I love tinkering with microcontrollers and electronics. I've been using Arduino, ESP32, ESP8266, Raspberry Pi, Raspberry Pi Pico, micro:bit etc. I'll look forward to trying others like stm32 etc.
 
