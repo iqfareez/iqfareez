@@ -32,7 +32,7 @@
 | [Tasbih digital (Unity)](../../../Tasbih-Digital-Unity) | Android     | [Vibrator test](../../../Vibrator-PhoneTest-Unity)                    | Android         |
 | [C++ Projects](../../../cpp_Project)                    | -           | [Motivation Kita Bersama](../../../motivation-quote-bot-Telegram)     | Bot             |
 | [Roll The Dice](../../../Roll-Dice-Unity)               | Android     | [WhatsApp Sticker Pack](../../../Android-my-WhatsApp-Sticker)         | Android         |
-| [MPT Backup API](../../../mpt-backup-api)               | API         | [HuTem](../../../PlatformIO-Projects/tree/main/DH11%20ESP%20Firebase) | ESP32 (IoT)     |
+| [MPT Backup API](../../../mpt-backup-api)               | API         |                                                                       |                 |
 
 And probably more not documented
 
@@ -82,6 +82,7 @@ Alright here we go:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iqfareez&show_icons=true&count_private=true" align="center" /></div>
 <br />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqfareez&theme=material-palenight"/></div>
 
 ---
 
