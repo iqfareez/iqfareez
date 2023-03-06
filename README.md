@@ -24,31 +24,21 @@
 | [Shooting Mini Game](https://github.com/ESD-shooting-mini-game)                        | MCTE 4342                 |
 | [Parcel Safety Box](https://github.com/GENE-Parcel-Safebox/)                           | GENE 4300                 |
 | [Mechatronics Lab](../../../microp-lab3) (Assembly with ATMega328P)                    | MCTE 4105                 |
+| [Weather Station](https://github.com/iqfareez/IA-Project-Weather-Station)              | MCTE 3373                 |
 | [Usrah Portfolio](https://github.com/iqfareez/ccub-portfolio-vue)                      | CCUB 4621                 |
+
+_\* WIP - Work In Progress_
 
 ### Others
 
-| Name                                                | Type        | Name                                                                  | Type            |
-| --------------------------------------------------- | ----------- | --------------------------------------------------------------------- | --------------- |
-| [People in space?](../../../people_in_space)        | Flutter     | [Astros API](../../../astros-api)                                     | NextJS          |
-| [Rakaat Counter](../../../rakaat_counter)           | WIP         | [admonitions](../../../admonitions)                                   | Flutter package |
-| [Notekeeping app](../../../flutnotes)               | Flutter     | [Free Palestine](../../../free_palestine)                             | Flutter         |
-| [Speaking Dice](../../../speaking_dice)             | Flutter     | [Report Abuse Form](../../../google_report_abuse)                     | UI Template     |
-| [Smarthome UI](../../../smarthome_ui_flutter)       | UI Template | [Pubspec to Md](../../../pubspec_to_md)                               | Flutter         |
-| [BMI Calculator](../../../bmi_calculator-Flutter)   | Flutter     | [Tarbawi Quiz](../../../Tarbawi-2.0-quiz-Unity)                       | Unity           |
-| [Light Intensity Meter](../../../light_lux_flutter) | Flutter     | [Feedback page](../../../flutter_feedback_ui_by_neecoder_x)           | UI Template     |
-| [Noise Meter](../../../noise_meter_flutter)         | Flutter     | [albiruni](../../../albiruni)                                         | Dart package    |
-| [MasakJer (GSC21)](../../../flutter_sc_masakjer)    | Flutter     | [Qibla Compass](../../../qiblah_flutter)                              | Android         |
-| [soil_humidity](../../../soil_humidity)             | Makers      | [HuTem](../../../PlatformIO-Projects/tree/main/DH11%20ESP%20Firebase) | ESP32 (IoT)     |
-| [Is 2021 end?](../../../Is-2020-end)                | Flutter     | [Tasbih digital](../../../Tasbih-Digital-Android)                     | Android         |
-| [Tasbih digital](../../../Tasbih-Digital-Unity)     | Unity       | [SeriLink](../../../SeriLink)                                         | C# Winforms     |
-| [C++ Projects](../../../cpp_Project)                | -           | [Motivation Kita Bersama](../../../motivation-quote-bot-Telegram)     | Telegrsm Bot    |
-| [Roll The Dice](../../../Roll-Dice-Unity)           | Unity       | [WhatsApp Sticker Pack](../../../Android-my-WhatsApp-Sticker)         | Android         |
-| [mpt-server](../../mptwaktusolat/mpt-server)        | NextJS      |                                                                       |                 |
+- [Flutter projects](./flutter.md)
+- [Python projects](./python.md)
+- [C# Projects](./c-sharp.md)
+- [Unity projects](./unity.md)
+- [Electronics projects](./electronics.md)
+- [C++ Projects](../../../cpp_Project)
 
-And probably more not documented (or not important enough)
-
-_\* WIP - Work In Progress_
+And probably more not documented (or not significant enough)
 
 ## I write blog & tutorials too
 
