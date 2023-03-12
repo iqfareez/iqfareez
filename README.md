@@ -16,16 +16,17 @@
 
 ### University Projects
 
-| Name                                                                                   | Subject                   |
-| -------------------------------------------------------------------------------------- | ------------------------- |
-| [KOEWayfinder\*](https://github.com/KOE-Wayfind) (AR Turn-by-turn navigation)          | Final Year Project        |
-| [Smart Trash Bin](https://github.com/IDP-Smart-Trash-Bin)                              | Integrated Design Project |
-| [Embedded System Design](../../../mcte4342-embedded-system-design) (Arduino and stuff) | MCTE 4342                 |
-| [Shooting Mini Game](https://github.com/ESD-shooting-mini-game)                        | MCTE 4342                 |
-| [Parcel Safety Box](https://github.com/GENE-Parcel-Safebox/)                           | GENE 4300                 |
-| [Mechatronics Lab](../../../microp-lab3) (Assembly with ATMega328P)                    | MCTE 4105                 |
-| [Weather Station](https://github.com/iqfareez/IA-Project-Weather-Station)              | MCTE 3373                 |
-| [Usrah Portfolio](https://github.com/iqfareez/ccub-portfolio-vue)                      | CCUB 4621                 |
+| Name                                                                          | Subject                   |
+| ----------------------------------------------------------------------------- | ------------------------- |
+| [KOEWayfinder\*](https://github.com/KOE-Wayfind) (AR Turn-by-turn navigation) | Final Year Project        |
+| [Smart Trash Bin](https://github.com/IDP-Smart-Trash-Bin)                     | Integrated Design Project |
+| [Robotic Hardware System](../../../mcte4342-embedded-system-design)           | MCTE 4362                 |
+| [Embedded System Design](../../../mcte4342-embedded-system-design)            | MCTE 4342                 |
+| [Shooting Mini Game](https://github.com/ESD-shooting-mini-game)               | MCTE 4342                 |
+| [Parcel Safety Box](https://github.com/GENE-Parcel-Safebox/)                  | GENE 4300                 |
+| [Mechatronics Lab](../../../microp-lab3) (Assembly with ATMega328P)           | MCTE 4105                 |
+| [Weather Station](https://github.com/iqfareez/IA-Project-Weather-Station)     | MCTE 3373                 |
+| [Usrah Portfolio](https://github.com/iqfareez/ccub-portfolio-vue)             | CCUB 4621                 |
 
 _\* WIP - Work In Progress_
 
