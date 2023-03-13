@@ -16,17 +16,18 @@
 
 ### University Projects
 
-| Name                                                                          | Subject                   |
-| ----------------------------------------------------------------------------- | ------------------------- |
-| [KOEWayfinder\*](https://github.com/KOE-Wayfind) (AR Turn-by-turn navigation) | Final Year Project        |
-| [Smart Trash Bin](https://github.com/IDP-Smart-Trash-Bin)                     | Integrated Design Project |
-| [Robotic Hardware System](../../../mcte4342-embedded-system-design)           | MCTE 4362                 |
-| [Embedded System Design](../../../mcte4342-embedded-system-design)            | MCTE 4342                 |
-| [Shooting Mini Game](https://github.com/ESD-shooting-mini-game)               | MCTE 4342                 |
-| [Parcel Safety Box](https://github.com/GENE-Parcel-Safebox/)                  | GENE 4300                 |
-| [Mechatronics Lab](../../../microp-lab3) (Assembly with ATMega328P)           | MCTE 4105                 |
-| [Weather Station](https://github.com/iqfareez/IA-Project-Weather-Station)     | MCTE 3373                 |
-| [Usrah Portfolio](https://github.com/iqfareez/ccub-portfolio-vue)             | CCUB 4621                 |
+| Name                                                               | Subject                   |
+| ------------------------------------------------------------------ | ------------------------- |
+| [KOEWayfinder\*](https://github.com/KOE-Wayfind)                   | Final Year Project        |
+| [Smart Trash Bin](https://github.com/IDP-Smart-Trash-Bin)          | Integrated Design Project |
+| [Robotic Hardware System](../../../MCTE-4362-Robotic-Hardware)     | MCTE 4362                 |
+| [Software Engineering](../../../MCTE-4327-Software-Engineering)    | MCTE 4327                 |
+| [Embedded System Design](../../../mcte4342-embedded-system-design) | MCTE 4342                 |
+| [Shooting Mini Game](https://github.com/ESD-shooting-mini-game)    | MCTE 4342                 |
+| [Parcel Safety Box](https://github.com/GENE-Parcel-Safebox/)       | GENE 4300                 |
+| [Mechatronics Lab III](../../../microp-lab3)                       | MCTE 4105                 |
+| [Weather Station](../../../IA-Project-Weather-Station)             | MCTE 3373                 |
+| [Usrah Portfolio](../../../ccub-portfolio-vue)                     | CCUB 4621                 |
 
 _\* WIP - Work In Progress_
 
@@ -44,24 +45,6 @@ And probably more not documented (or not significant enough)
 ## I write blog & tutorials too
 
 https://iqfareez.com/blog
-
-## Some background of me?
-
-<details>
-    <summary>Click to expand!</summary>
-
-Alright here we go:
-
-- First programming language I learned was javascript when I was in primary-secondary school [iirc](https://www.dictionary.com/browse/iirc#:~:text=IIRC%20is%20an%20internet%20abbreviation,not%20be%20100%25%20sure%20of.). At that time, I had just gotten access to the Internet, so I stumbled across [Khan Academy](https://www.khanacademy.org/), where I started learning math and programming. I didn't manage to finish the whole course because it's boring hahahah.
-- In form 4, when I in MRSM, we have subject called Computer Science iirc. We learn on Visual Basic .NET. Subjek paling favourite tapi kelas seminggu sekali je, pastu kdg2 cikgu tk masuk arghdgh. Lps tu cikgu ganti amik alih. Lagi pishangg hahaa.
-- In CFS / Asasi IIUM, we learn C. Then, in first year degree we learn C++. Dua2 ni menarik and markah alhamdulillah gempak hhaha
-- My first app was [Malaysian WhatsApp Sticker packs](https://play.google.com/store/apps/details?id=com.sticker.WAMalaysianStickers).Urm, why that app? At that time, I have 0 knowledge of Android (native) app development. Still, WhatsApp has its official [source code](https://github.com/WhatsApp/stickers), so I yoink the code and replace all assets. Yea, that's my first baby step in development.
-- I am also starting Unity game development after watching [Dani's video](https://www.youtube.com/watch?v=HPmD9I2b7L8). I feel like, "Waa, that's cool." And yea, I found many tutorials online that keep boosting my motivation for development. I released quite a few apps with Unity (yea, apps, not games, hehe). The sad part is now I stopped developing with Unity. Perhaps one day I'll come back, who knows?
-- I developed most of my apps in Flutter. So, why did I choose [Flutter](https://flutter.dev/)? It's easy to learn and understand, and the language & syntax are easy to grasp. Things Flutter can do over native is the ability to publish apps for multiple platforms, e.g.: Android, Web, and Desktop. For beginners, I recommend Flutter.
-- I wouldn't say I liked web development that much; to be honest, it is somewhat dull and difficult to learn for me. But, for things that require me to do web development stuff, I didn't hesitate to learn and explore more.
-- I love tinkering with microcontrollers and electronics. I've been using Arduino, ESP32, ESP8266, Raspberry Pi, Raspberry Pi Pico, micro:bit etc. I'll look forward to trying others like stm32 etc.
-
-  </details>
 
 ## Tech Stack
 
@@ -104,22 +87,22 @@ Alright here we go:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Connect with me
+## Find me on
 
 <div align="center">
-<a href="https://iqfareez.com" target="_blank">
+<a href="https://iqfareez.com">
 <img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
-<a href="../../.." target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iqfareez" target="_blank">
+<a href="https://twitter.com/iqfareez">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/iqfareez" target="_blank">
+<a href="https://stackoverflow.com/users/13617136/iqfareez">
+<img src=https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://linkedin.com/in/iqfareez">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iqfareez" target="_blank">
+<a href="https://instagram.com/iqfareez">
 <img src=https://img.shields.io/badge/instagram-%23fb3958.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
