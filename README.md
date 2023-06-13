@@ -12,7 +12,6 @@
 | ---------------------------------------------------------- | ------------- |
 | [Malaysia Prayer Time](../../../app_waktu_solat_malaysia/) | App (Flutter) |
 | [IIUM Schedule](../../../iium_schedule)                    | App (Flutter) |
-| [Flutree](../../../linktree-clone-flutter)                 | App (Flutter) |
 
 ### University Projects
 
@@ -22,6 +21,7 @@
 | [Smart Trash Bin](https://github.com/IDP-Smart-Trash-Bin)          | Integrated Design Project |
 | [Robotic Hardware System](../../../MCTE-4362-Robotic-Hardware)     | MCTE 4362                 |
 | [Software Engineering](../../../MCTE-4327-Software-Engineering)    | MCTE 4327                 |
+| [TCP Chat Application](../../../Chat-App-Project)                  | MCTE 4327                 |
 | [Embedded System Design](../../../mcte4342-embedded-system-design) | MCTE 4342                 |
 | [Shooting Mini Game](https://github.com/ESD-shooting-mini-game)    | MCTE 4342                 |
 | [Parcel Safety Box](https://github.com/GENE-Parcel-Safebox/)       | GENE 4300                 |
@@ -36,6 +36,7 @@ _\* WIP - Work In Progress_
 - [Flutter projects](./flutter.md)
 - [Python projects](./python.md)
 - [C# Projects](./c-sharp.md)
+- [Web projects](./web.md)
 - [Unity projects](./unity.md)
 - [Electronics projects](./electronics.md)
 - [C++ Projects](../../../cpp_Project)
