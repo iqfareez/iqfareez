@@ -13,26 +13,9 @@
 | [Malaysia Prayer Time](../../../app_waktu_solat_malaysia/) | App (Flutter) |
 | [IIUM Schedule](../../../iium_schedule)                    | App (Flutter) |
 
-### University Projects
-
-| Name                                                               | Subject                   |
-| ------------------------------------------------------------------ | ------------------------- |
-| [KOEWayfinder\*](https://github.com/KOE-Wayfind)                   | Final Year Project        |
-| [Smart Trash Bin](https://github.com/IDP-Smart-Trash-Bin)          | Integrated Design Project |
-| [Robotic Hardware System](../../../MCTE-4362-Robotic-Hardware)     | MCTE 4362                 |
-| [Software Engineering](../../../MCTE-4327-Software-Engineering)    | MCTE 4327                 |
-| [TCP Chat Application](../../../Chat-App-Project)                  | MCTE 4327                 |
-| [Embedded System Design](../../../mcte4342-embedded-system-design) | MCTE 4342                 |
-| [Shooting Mini Game](https://github.com/ESD-shooting-mini-game)    | MCTE 4342                 |
-| [Parcel Safety Box](https://github.com/GENE-Parcel-Safebox/)       | GENE 4300                 |
-| [Mechatronics Lab III](../../../microp-lab3)                       | MCTE 4105                 |
-| [Weather Station](../../../IA-Project-Weather-Station)             | MCTE 3373                 |
-| [Usrah Portfolio](../../../ccub-portfolio-vue)                     | CCUB 4621                 |
-
-_\* WIP - Work In Progress_
-
 ### Others
 
+- [University Projects]
 - [Flutter projects](./flutter.md)
 - [Python projects](./python.md)
 - [C# Projects](./c-sharp.md)
@@ -45,7 +28,7 @@ And probably more not documented (or not significant enough)
 
 ## I write blog & tutorials too
 
-https://iqfareez.com/blog
+Visit https://iqfareez.com/blog
 
 ## Tech Stack
 
