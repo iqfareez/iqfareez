@@ -15,7 +15,7 @@
 
 ### Others
 
-- [University Projects]
+- [University Projects](./university.md)
 - [Flutter projects](./flutter.md)
 - [Python projects](./python.md)
 - [C# Projects](./c-sharp.md)
