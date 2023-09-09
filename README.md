@@ -1,6 +1,6 @@
-### <div align="center">Hi :wave:. I'm Fareez, an engineering student, a hobbyist developer 👨‍💻 </div>
+### <div align="center">Hi :wave:. I'm Fareez, a passionate software engineer, maker etc. etc. 👨‍💻👷🏻 </div>
 
-<div align="center">Love to learn and build | Final semester in IIUM</div>
+<div align="center">Love to learn and build | Mechatronics Eng. graduate</div>
 
 <br/>
 
