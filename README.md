@@ -4,6 +4,12 @@
 
 <br/>
 
+## I'm currently working on
+
+- Quran tajwid font colourization. https://github.com/My-Quran-Tajwid
+- Smart Quran V2
+- etc.
+
 ## What I've build
 
 ### Flagship
