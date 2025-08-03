@@ -1,12 +1,8 @@
 # <div align="center">Hi there, I'm Fareez! 👋</div>
 
 <div align="center">
-<strong>Software Engineer | Maker | Tech Enthusiast</strong><br/>
+<strong>Software Engineer | Maker</strong><br/>
 I love building things
-</div>
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
 
 <br/>
