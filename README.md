@@ -9,7 +9,7 @@ I love building things
 
 ## 🚀 Currently Building
 
-- 💼 Software for Oil & Gas 
+- 💼 Software for Oil & Gas Industry
 - 📖 [Quran tajwid font colorization](https://github.com/My-Quran-Tajwid) - Making Quran reading more accessible
 - 📱 Smart Quran V2 - Complete redesign with new features
 - 🌟 Open source contributions
@@ -31,6 +31,6 @@ I love building things
 - [Electronics projects](./electronics.md) - IoT and hardware hacks
 - [University Projects](./university.md) - Academic work and research
 
-## ✍️ I write blog & tutorials too
+## ✍️ I write blogs too
 
 Visit https://iqfareez.com
