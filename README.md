@@ -2,7 +2,7 @@
 
 <div align="center">
 <strong>Software Engineer | Maker</strong><br/>
-I love building things
+I build things.
 </div>
 
 <br/>
@@ -16,10 +16,10 @@ I love building things
 
 ## 🏆 Flagship Projects
 
-| Project                                                   | Tech Stack    | Description                               |
-| --------------------------------------------------------- | ------------- | ----------------------------------------- |
-| [Malaysia Prayer Time](../../../app_waktu_solat_malaysia/) | Flutter       | Accurate prayer times for all of Malaysia |
-| [IIUM Schedule](../../../iium_schedule)                    | Flutter       | University timetable management app       |
+| Project                                                    | Tech Stack        | Description                               |
+| ---------------------------------------------------------- | ----------------- | ----------------------------------------- |
+| [Malaysia Prayer Time](../../../app_waktu_solat_malaysia/) | Flutter & Laravel | Accurate prayer times for all of Malaysia |
+| [IIUM Schedule](../../../iium_schedule)                    | Flutter           | University timetable management app       |
 
 ## 🧰 Other Projects
 
