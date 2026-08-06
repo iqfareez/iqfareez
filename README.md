@@ -9,10 +9,10 @@ I build things.
 
 ## 🚀 Currently Building
 
-- 💼 Software for Oil & Gas Industry
-- 📖 [Quran tajwid font colorization](https://github.com/My-Quran-Tajwid) - Making Quran reading more accessible
-- 📱 Smart Quran V2 - Complete redesign with new features
-- 🌟 Open source contributions
+- 💼 Software for Oil & Gas Industry at Work
+- 💵 Personal finance tracker app
+- 📖 [Quran tajwid font colorization](https://github.com/My-Quran-Tajwid)
+- 🌟 and some other Open source contributions
 
 ## 🏆 Flagship Projects
 
